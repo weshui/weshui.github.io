@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Nest]]></title>
-  <link href="http://weshui.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Journals | Nest]]></title>
+  <link href="http://weshui.github.io/blog/categories/journals/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
   <updated>2014-06-02T23:10:39-05:00</updated>
   <id>http://weshui.github.io/</id>
@@ -12,25 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Project Ivy Init]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/02/project-ivy-init/"/>
-    <updated>2014-06-02T22:54:05-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/02/project-ivy-init</id>
-    <content type="html"><![CDATA[<p>I met with my girlfriend Ivy when we were both students in University of Illinois at Urbana Champaign. She was a master candidate majoring in Econ, and I was a 屌丝(Diaosi, Chinese Charactors, roughly translate into &ldquo;a nerdy guy who everyone knows will not get a girl friend&rdquo;) in Math &amp; Computer Science.</p>
-
-<p>Oct 2 of 2014 is our 1st year anniversary, and right now we are on skype while I&rsquo;m typing this blog.</p>
-
-<p>She must not know the following project details as this will be my suprise gift for her.</p>
-
-<p>I will launch a website with customized domain name, hosted on github. In the website, I will do some cool stuff (TBD, but have some cool ideas) to impress her.</p>
-
-<p>How likely she will find out about this intent? Hmm, statistically highly unlikely. She is just a normal girl who can&rsquo;t distinguish Mac OS &amp; iOS =P</p>
-
-<p>Will post more updates later.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>

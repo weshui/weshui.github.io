@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://weshui.github.io/blog/2014/06/02/firstpost/</loc>
+        <lastmod>2014-06-02T23:10:12-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://weshui.github.io/blog/2014/06/02/project-ivy-init/</loc>
+        <lastmod>2014-06-02T23:10:15-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://weshui.github.io/blog/archives/</loc>
-        <lastmod>2014-05-29T11:51:07-05:00</lastmod>
+        <lastmod>2014-06-02T23:10:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/</loc>
-        <lastmod>2014-05-29T11:51:07-05:00</lastmod>
+        <lastmod>2014-06-02T23:10:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/robots.txt</loc>

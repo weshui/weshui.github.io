@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Nest]]></title>
-  <link href="http://weshui.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Projects | Nest]]></title>
+  <link href="http://weshui.github.io/blog/categories/projects/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
   <updated>2014-06-02T23:10:39-05:00</updated>
   <id>http://weshui.github.io/</id>
@@ -29,27 +29,6 @@
 <p>How likely she will find out about this intent? Hmm, statistically highly unlikely. She is just a normal girl who can&rsquo;t distinguish Mac OS &amp; iOS =P</p>
 
 <p>Will post more updates later.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/02/firstpost/"/>
-    <updated>2014-06-02T22:27:09-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/02/firstpost</id>
-    <content type="html"><![CDATA[<p>Yes, this is actually my first post.</p>
-
-<p>I was never meant to be a guy who keeps track of eveything in his daily life. I thought the first impression others could/should have are &ldquo;wtf&rdquo; or &ldquo;who cares&rdquo;. Sadly, it didn&rsquo;t change until recently thanks to one of my friends.</p>
-
-<p>So, I started this, and as a &ldquo;brogrammer&rdquo; I believe it&rsquo;s right of me to &ldquo;code&rdquo; my blog rather than write my blog.</p>
-
-<p>For those who don&rsquo;t have enough knowledge in programming or whats-so-ever (lucky you), I use octopress, github and sublime text 2 to make all this blog stuff happens (Ya, I know you have no idea what I&rsquo;m talking about =D).</p>
-
-<p>To make it short, I wanna keep track of my life so at least I can have some references to write autobiography when I&rsquo;m too old to code and/or I can pull up some cool stuff as evidence when talking bs to my kids/grandkids (Hope world peace until then).</p>
-
-<p>That&rsquo;s the whole point of this Journal/Blog/Diary stuff.</p>
-
-<p>And, of cource, to practice English. Yes people, I know more than Java, Ruby, C++, Python and Javascript!</p>
 ]]></content>
   </entry>
   
