@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Nest]]></title>
-  <link href="http://weshui.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Journal | Nest]]></title>
+  <link href="http://weshui.github.io/blog/categories/journal/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
   <updated>2014-06-04T18:35:16-05:00</updated>
   <id>http://weshui.github.io/</id>
@@ -40,50 +40,6 @@ Swift (not Taylor)
 <p>And, last but not least, no words for iPhone 6. Gosh, I&rsquo;m waiting for a year but not a single word. (Don&rsquo;t look at me like this, Nokia. Maybe we should just be friends)</p>
 
 <p>Let&rsquo;s see what Google I/O will bring =)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Project Ivy Init]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/02/project-ivy-init/"/>
-    <updated>2014-06-02T22:54:05-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/02/project-ivy-init</id>
-    <content type="html"><![CDATA[<p>I met with my girlfriend Ivy when we were both students in University of Illinois at Urbana Champaign. She was a master candidate majoring in Econ, and I was a 屌丝(Diaosi, Chinese Charactors, roughly translate into &ldquo;a nerdy guy who everyone knows will not get a girl friend&rdquo;) in Math &amp; Computer Science.</p>
-
-<p>Oct 2 of 2014 is our 1st year anniversary, and right now we are on skype while I&rsquo;m typing this blog.</p>
-
-<p>She must not know the following project details as this will be my suprise gift for her.</p>
-
-<p>I will launch a website with customized domain name, hosted on github. In the website, I will do some cool stuff (TBD, but have some cool ideas) to impress her. The website will be on <a href="http://wes-ivy.me">http://wes-ivy.me</a> , which currently redirects to this blog.</p>
-
-<p>How likely she will find out about this intent? Hmm, statistically highly unlikely. She is just a normal girl who can&rsquo;t distinguish Mac OS &amp; iOS =P</p>
-
-<p>This project will be a whole learning experience for me as well. I&rsquo;ve done Bootstrap before, but to really do what I have in mind requires far more than playing around.</p>
-
-<p>I have 4 months, lets go and see.</p>
-
-<p>Will post more updates later.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/02/firstpost/"/>
-    <updated>2014-06-02T22:27:09-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/02/firstpost</id>
-    <content type="html"><![CDATA[<p>Yes, this is actually my first post.</p>
-
-<p>I was never meant to be a guy who keeps track of eveything in his daily life. I thought the first impression others could/should have are &ldquo;wtf&rdquo; or &ldquo;who cares&rdquo;. Sadly, it didn&rsquo;t change until recently thanks to one of my friends.</p>
-
-<p>So, I started this, and as a &ldquo;brogrammer&rdquo; I believe it&rsquo;s right of me to &ldquo;code&rdquo; my blog rather than write my blog.</p>
-
-<p>For those who don&rsquo;t have enough knowledge in programming or whats-so-ever (lucky you), I use octopress, github and sublime text 2 to make all this blog stuff happens (Ya, I know you have no idea what I&rsquo;m talking about =D).</p>
-
-<p>To make it short, I wanna keep track of my life so at least I can have some references to write autobiography when I&rsquo;m too old to code and/or I can pull up some cool stuff as evidence when talking bs to my kids/grandkids (Hope world peace until then).</p>
-
-<p>That&rsquo;s the whole point of this Journal/Blog/Diary stuff.</p>
-
-<p>And, of cource, to practice English. Yes people, I know more than Java, Ruby, C++, Python and Javascript!</p>
 ]]></content>
   </entry>
   
