@@ -4,7 +4,7 @@
   <title><![CDATA[Nest]]></title>
   <link href="http://weshui.github.io/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2014-06-05T15:39:22-05:00</updated>
+  <updated>2014-06-09T12:23:10-05:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Project Ivy Part1]]></title>
+    <link href="http://weshui.github.io/blog/2014/06/09/project-ivy-part1/"/>
+    <updated>2014-06-09T11:58:47-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/09/project-ivy-part1</id>
+    <content type="html"><![CDATA[<p>Fortunately,  Ivy still seems unaware of what I&rsquo;ve been doing recently. Everytime she asked &ldquo;What are you doing for the night?&rdquo;, I answered &ldquo;Coding&rdquo;. I know she probably will never find this website until I tell her. Can&rsquo;t wait to see what she will response to this =P</p>
+
+<p>I have several possible outlines for this project. But it seems an awesome website with customized video recap for the past year would be the most-likely one to literally make her burst into tears (Evil me). For the credit, I got this idea from <a href="https://www.facebook.com/lookback">Facebook Lookback</a>. I like your work Facebook, so please don&rsquo;t sue me.</p>
+
+<p>In order to do that, I need many tools/programms:</p>
+
+<pre><code>Photo Editing Software
+Video Editing Software
+Photo Mosaic (Plan to write one)
+Photo Fetcher from Facebook (Plan to write one)
+Bootstrap + Good JS libaray to make website neat(possibly Angular.js)
+TBA
+</code></pre>
+
+<p>Cool stuff and a tons of learning experiences and potential opportunity to impress girl friend.</p>
+
+<h1>Be A Good Programmer Plus Boyfriend</h1>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[On WWDC14]]></title>
