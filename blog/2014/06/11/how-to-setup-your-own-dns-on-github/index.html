@@ -1,0 +1,261 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>How to Setup Your Own Domain Name on Github - Nest</title>
+  <meta name="author" content="Wesley Hui">
+
+  
+  <meta name="description" content="Github provides such a great hosting service free of charge, too bad that the domain name is default to be http://github_id.github.io Indeed, we &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://weshui.github.io/blog/2014/06/11/how-to-setup-your-own-dns-on-github">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Nest" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Nest</a></h1>
+  
+    <h2>So many things to remember.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:weshui.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/about">About Wes</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">How to Setup Your Own Domain Name on Github</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-06-11T15:24:23-05:00" pubdate data-updated="true">Jun 11<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Github provides such a great hosting service free of charge, too bad that the domain name is default to be</p>
+
+<pre><code>http://github_id.github.io
+</code></pre>
+
+<p>Indeed, we programmers tend to &ldquo;show off&rdquo; our knowledges in anthing-related-to-computer, so it&rsquo;s often the case that we use our own domain name instead. For easy memorization and, of course, the bragging right.</p>
+
+<p>Here in this post, I will walk through the topic on how to set up your own domain name on Github. Main reason I want to do this is because I found the turtial online is kinda confusing. I will try to explain it in a plain english manner.</p>
+
+<p>If you don&rsquo;t quite understand the concept, here is a good <a href="https://support.google.com/a/answer/48090?hl=en">link</a> that explains everything concept you need to know before get it stared.</p>
+
+<blockquote><p>Step 1, get a domain name</p></blockquote>
+
+<p>Yes, you have to buy one and all the domain names come with price. For example, this website&rsquo;s domain name is 10 dollors/year, not that bad if you think about it. You can buy domain name from <strong>domain name registrar</strong>, <a href="https://www.godaddy.com/">GoDaddy</a>, <a href="https://www.namecheap.com/">namecheap</a> just to name a few. For consistency, let&rsquo;s say you register a domain name <strong>yourdomain.com</strong> on Namecheap. (Note, this tutorial is for APEX domain name. Subdomains should be able to follow most of the steps until but not include step 4)</p>
+
+<blockquote><p>Step 2, host your website on Github</p></blockquote>
+
+<p>For details on how to host your website on github, here is the <a href="https://pages.github.com/">link</a>. Create repository and push it. Simple enough. By now, you should have a repository called <em>github_id.github.io</em></p>
+
+<blockquote><p>Step 3, push a file named CNAME into your respository</p></blockquote>
+
+<p>Create a file in your <em>github_id.github.io</em> repository called <strong>CNAME</strong>. There should be only one line in this newly create file, that is <strong>youdomain.com</strong>. Push this file to Github and make sure it exists under root directory.</p>
+
+<blockquote><p>Step 4, redirect your domain name to Github</p></blockquote>
+
+<p>Go to your account where you registered your domain name, select your domain name and under the <strong>Host Management</strong> tab (or similar tab), click <strong>All Host Records</strong>. By default, top should have two records, one as <strong>@</strong> and one as <strong>www</strong>. Change them to :</p>
+
+<pre><code>@       192.30.252.154    A(Address)    n/a    1800
+www     yourdomain.com    URL Redirect  n/a    1800
+</code></pre>
+
+<p>In the sub-domain settings, we need to add another record(thanks to github) that redirect the host to Github server, it looks like</p>
+
+<pre><code>@       192.30.252.153    A(Address)    n/a    1800 
+</code></pre>
+
+<p>Save this settings.</p>
+
+<blockquote><p>Step 5, wait until it comes up</p></blockquote>
+
+<p>Github can take time to configure these settings, so be patience. To test the host, we can use the methods described in the tutotial.</p>
+
+<pre><code>dig yourdomain.com +nostats +nocomments +nocmd
+</code></pre>
+
+<p>if the IP addresses show up are precisely 192.30.252.154 and 192.30.252.153(if everything is normal, both should show up), we are good to go!</p>
+
+<p>Thie is the tutorial for setting up APEX domain name on github, buf if you have a subdomain name, for example <strong>www.yourdomain.com</strong> instead of <strong>yourdomain.com</strong>, your don&rsquo;t need to create A record. Just redirect the www url to <strong>your_id.github.io</strong> should do the trick.</p>
+
+<p>Here is the original link to the <a href="https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages">turotial</a> Github provides.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Wesley Hui</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-06-11T15:24:23-05:00" pubdate data-updated="true">Jun 11<span>th</span>, 2014</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/web/'>Web</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://weshui.github.io/blog/2014/06/11/how-to-setup-your-own-dns-on-github/" data-via="wes_hui" data-counturl="http://weshui.github.io/blog/2014/06/11/how-to-setup-your-own-dns-on-github/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2014/06/09/project-ivy-part1/" title="Previous Post: Project Ivy Part1">&laquo; Project Ivy Part1</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    
+<section>
+  
+  <a href="https://github.com/weshui">@weshui</a> on GitHub
+  
+</section>
+
+
+
+
+
+<section>
+  
+  <a href="https://twitter.com/wes_hui">@wes_hui</a> on Twitter
+  
+</section>
+
+
+<section>
+  
+  <a href="https://linkedin.com/in/weshui">@weshui</a> on LinkedIn
+  
+</section>
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Wesley Hui -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
