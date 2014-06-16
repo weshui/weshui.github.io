@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Techs | Nest]]></title>
+  <link href="http://weshui.github.io/blog/categories/techs/atom.xml" rel="self"/>
+  <link href="http://weshui.github.io/"/>
+  <updated>2014-06-15T20:09:29-05:00</updated>
+  <id>http://weshui.github.io/</id>
+  <author>
+    <name><![CDATA[Wesley Hui]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Air Type]]></title>
+    <link href="http://weshui.github.io/blog/2014/06/15/air-type/"/>
+    <updated>2014-06-15T19:58:40-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/15/air-type</id>
+    <content type="html"><![CDATA[<p>Check out this cool startup in Autsin, TX.</p>
+
+<p>Keyboard-less typing!</p>
+
+<p>I think they kinda have to train &ldquo;it&rdquo; (machine learning) so &ldquo;it&rdquo; can recongnize different gesture. Would make more sense if using Online Learning (since everyone has a different way to type, so the keyboard can adjust itself).</p>
+
+<p>Link to their <a href="http://airtype.io/concept/">website</a></p>
+]]></content>
+  </entry>
+  
+</feed>
