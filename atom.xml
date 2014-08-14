@@ -4,7 +4,7 @@
   <title><![CDATA[Nest]]></title>
   <link href="http://weshui.github.io/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2014-08-12T13:02:30-05:00</updated>
+  <updated>2014-08-14T15:24:08-05:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Goodjob Facebook]]></title>
+    <link href="http://weshui.github.io/blog/2014/08/14/goodjob-facebook/"/>
+    <updated>2014-08-14T15:18:12-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/08/14/goodjob-facebook</id>
+    <content type="html"><![CDATA[<p>Wow, the ice buckget challenge is on heat !</p>
+
+<p>People @ Facebook are crazy.
+Nice place to work &amp; nice people to meet</p>
+
+<h1>strikeoutALS</h1>
+
+<p>Link to the people in facebook. Might need login credential, but yeah most browsers store that in cache (not session).</p>
+
+<p><a href="https://www.facebook.com/photo.php?v=10154468167095177&amp;set=vb.717545176&amp;type=2&amp;theater">https://www.facebook.com/photo.php?v=10154468167095177&amp;set=vb.717545176&amp;type=2&amp;theater</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cool Hyperlapse by MSFT Research]]></title>
