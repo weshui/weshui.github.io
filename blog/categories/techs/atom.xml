@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Techs | Nest]]></title>
   <link href="http://weshui.github.io/blog/categories/techs/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2014-09-18T12:15:37-05:00</updated>
+  <updated>2014-09-18T12:16:53-05:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -22,7 +22,7 @@
 
 <p>Check out this video</p>
 
-<p>{ % youtube YI5uXlTnNms %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/YI5uXlTnNms" allowfullscreen></iframe></div></p>
 
 <p>I heard that Steve Jobs spends at least half an hour on meditation every day.</p>
 
