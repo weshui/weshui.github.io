@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Journals | Nest]]></title>
+  <title><![CDATA[Category: Journals | Wes's Matrix]]></title>
   <link href="http://weshui.github.io/blog/categories/journals/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2014-09-18T12:16:53-05:00</updated>
+  <updated>2014-10-02T13:55:29-05:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Anniversary]]></title>
+    <link href="http://weshui.github.io/blog/2014/10/02/first-anniversary/"/>
+    <updated>2014-10-02T13:43:37-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/10/02/first-anniversary</id>
+    <content type="html"><![CDATA[<p>这篇文章是写给妹纸看的，所以还是用中文比较好。</p>
+
+<p>亲爱的WZ姐姐</p>
+
+<p>下午工作的时候想起来，今天已经是10/2了。</p>
+
+<p>去年的这个时候，还是学生的我们在一起了。</p>
+
+<p>于是现在已经一年了。</p>
+
+<p>1年里，谢谢你的包容，理解，体贴（if any）。</p>
+
+<p>未来谁也不好说，但是不管在哪，2013年到2014年的这1年我肯定是不会忘记的。</p>
+
+<p>いろいろとありがとうございます!</p>
+
+<p>本来呢，打算这个网站的主页换成一个WebGL的动画的。</p>
+
+<p>但是吧，各种事情和GRE搞的我学习WebGL的过程异常的缓慢。</p>
+
+<p>不过呢，这个网站的网址就当我给你的礼物了。</p>
+
+<p>我自己注册的，是不是很厉害。</p>
+
+<p>顺带一提，ivy-wes这个也是我注册的，会重新导到这里来。</p>
+
+<p>明年的这个时候，WebGL应该可以完工啦，到时候记得来看哈。</p>
+
+<p>最后，</p>
+
+<p>周年纪念！
+Happy Anniversary！
+記念日おめでとう</p>
+
+<p>By Wesley Hui
+All right reserved.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[After Roadtrip]]></title>
