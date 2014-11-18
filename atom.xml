@@ -4,7 +4,7 @@
   <title><![CDATA[Wes's Matrix]]></title>
   <link href="http://weshui.github.io/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2014-10-02T14:22:19-05:00</updated>
+  <updated>2014-11-18T13:19:54-06:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Grad School Admission]]></title>
+    <link href="http://weshui.github.io/blog/2014/11/18/first-grad-school-admission/"/>
+    <updated>2014-11-18T13:17:08-06:00</updated>
+    <id>http://weshui.github.io/blog/2014/11/18/first-grad-school-admission</id>
+    <content type="html"><![CDATA[<p>Last week, I received my first grad school admission offer!</p>
+
+<p>Master of Science in Computer Science admission from UCLA(for those who don&rsquo;t know, University of California Los Angeles!)</p>
+
+<p>California, I&rsquo;m coming!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Anniversary]]></title>

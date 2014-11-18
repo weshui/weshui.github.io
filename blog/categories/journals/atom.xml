@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Journals | Wes's Matrix]]></title>
   <link href="http://weshui.github.io/blog/categories/journals/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2014-10-02T14:22:19-05:00</updated>
+  <updated>2014-11-18T13:19:54-06:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Grad School Admission]]></title>
+    <link href="http://weshui.github.io/blog/2014/11/18/first-grad-school-admission/"/>
+    <updated>2014-11-18T13:17:08-06:00</updated>
+    <id>http://weshui.github.io/blog/2014/11/18/first-grad-school-admission</id>
+    <content type="html"><![CDATA[<p>Last week, I received my first grad school admission offer!</p>
+
+<p>Master of Science in Computer Science admission from UCLA(for those who don&rsquo;t know, University of California Los Angeles!)</p>
+
+<p>California, I&rsquo;m coming!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Anniversary]]></title>
@@ -100,27 +113,6 @@ The reason for that is, of course, ROAD TRIP.</p>
     <content type="html"><![CDATA[<p>Booked our trip to Orlando the coming July 4th. Can&rsquo;t wait to see the &ldquo;refurbished&rdquo; Harry Potter Theme Park. I grew up reading Harry Potter series (countless nights in bed and thus shortsightedness). Finally get a chance to get myself a wand and drink butterbeer.</p>
 
 <p>But, as always, you can&rsquo;t be happy and lucky all the time. Just turned down by Zillow for a Softwere Engineer Position. Well, I really like Seattle area and have a bunch of friends in there now. Too bad can&rsquo;t go there for on-site nor further career. A bit-manipulation interview question got me. I haven&rsquo;t use &amp; | ^ for years. Quite suprised that a well-known company actually will ask you this except the classic Two-Int-Exchange-Value question. Anyway, need to practice more on code.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/02/firstpost/"/>
-    <updated>2014-06-02T22:27:09-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/02/firstpost</id>
-    <content type="html"><![CDATA[<p>Yes, this is actually my first post.</p>
-
-<p>I was never meant to be a guy who keeps track of eveything in his daily life. I thought the first impression others could/should have are &ldquo;wtf&rdquo; or &ldquo;who cares&rdquo;. Sadly, it didn&rsquo;t change until recently thanks to one of my friends.</p>
-
-<p>So, I started this, and as a &ldquo;brogrammer&rdquo; I believe it&rsquo;s right of me to &ldquo;code&rdquo; my blog rather than write my blog.</p>
-
-<p>For those who don&rsquo;t have enough knowledge in programming or whats-so-ever (lucky you), I use octopress, github and sublime text 2 to make all this blog stuff happens (Ya, I know you have no idea what I&rsquo;m talking about =D).</p>
-
-<p>To make it short, I wanna keep track of my life so at least I can have some references to write autobiography when I&rsquo;m too old to code and/or I can pull up some cool stuff as evidence when talking bs to my kids/grandkids (Hope world peace until then).</p>
-
-<p>That&rsquo;s the whole point of this Journal/Blog/Diary stuff.</p>
-
-<p>And, of cource, to practice English. Yes people, I know more than Java, Ruby, C++, Python and Javascript!</p>
 ]]></content>
   </entry>
   
