@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Techs | Wes's Matrix]]></title>
   <link href="http://weshui.github.io/blog/categories/techs/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2014-11-18T13:19:54-06:00</updated>
+  <updated>2014-11-18T13:28:22-06:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hover Board for Real]]></title>
+    <link href="http://weshui.github.io/blog/2014/11/18/hover-board-for-real/"/>
+    <updated>2014-11-18T13:21:01-06:00</updated>
+    <id>http://weshui.github.io/blog/2014/11/18/hover-board-for-real</id>
+    <content type="html"><![CDATA[<p>Couple of monthes ago, I saw video(starring Tony Hawk) entitled &ldquo;Hover board&rdquo;.</p>
+
+<p>But, it was a hoax.</p>
+
+<p>Now, this time the real &ldquo;Conan&rdquo; board staring the very same person.</p>
+
+<p>Check this out</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/HSheVhmcYLA" allowfullscreen></iframe></div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This Is Cool]]></title>
@@ -87,25 +104,6 @@ Nice place to work &amp; nice people to meet</p>
 <p>Jump to it&rsquo;s price, 300 bucks for a contract phone just to showoff 3D Lock Screen? Let me think&hellip; Nope</p>
 
 <p>Nice try Mr. Benzos. But I will switch to iPhone 6 most likely.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Air Type]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/15/air-type/"/>
-    <updated>2014-06-15T19:58:40-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/15/air-type</id>
-    <content type="html"><![CDATA[<p>Check out this cool startup in Autsin, TX.</p>
-
-<p>Keyboard-less typing!</p>
-
-<p>I think they kinda have to train &ldquo;it&rdquo; (machine learning) so &ldquo;it&rdquo; can recongnize different gesture. Would make more sense if using Online Learning (since everyone has a different way to type, so the keyboard can adjust itself).</p>
-
-<p>Imaging using this for your ipad. Would like to sign-up for beta =D</p>
-
-<p>Link to their <a href="http://airtype.io/concept/">website</a></p>
-
-<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/90766615 "></iframe></div></p>
 ]]></content>
   </entry>
   
