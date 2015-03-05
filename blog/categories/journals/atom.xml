@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Journals | Wes's Matrix]]></title>
   <link href="http://weshui.github.io/blog/categories/journals/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2014-11-18T13:28:22-06:00</updated>
+  <updated>2015-03-05T20:54:27+13:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -14,10 +14,33 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Back to China!]]></title>
+    <link href="http://weshui.github.io/blog/2015/03/05/back-to-china/"/>
+    <updated>2015-03-05T20:46:42+13:00</updated>
+    <id>http://weshui.github.io/blog/2015/03/05/back-to-china</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been a while before I realize my last post was last year Nov 18.</p>
+
+<p>I agree with you, I&rsquo;m lazy~</p>
+
+<p>Anyway, many things happended over the past few mothes, and I would like to write them down (So I can refer to it years after).</p>
+
+<ol>
+<li><p>I got another gradute school admission offer from University of Wisconsin-Madison. TA position plus scholarship. Way better package thane the UCLA one. Yet, I have not decided where I should go for graduate school.</p></li>
+<li><p>I decided to spend the next 6 months in Hangzhou China for the following reasons: a) I believe family is very important, b) my working authorization expired (which I could extend, but I didn&rsquo;t).</p></li>
+<li><p>Before going back to China, I spent my past 10 days in New Zealand. Thats right, New Zealand, the first country to see the sunrise. In fact, this post is writen in Auckland International Airport, where I have 2 hours before boarding the plane to Shanghai.</p></li>
+<li><p>I definitely will go back to U.S. for graudate school later this year. Which school? Not quite clear yet.</p></li>
+</ol>
+
+
+<p>I&rsquo;m back, China!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[First Grad School Admission]]></title>
-    <link href="http://weshui.github.io/blog/2014/11/18/first-grad-school-admission/"/>
-    <updated>2014-11-18T13:17:08-06:00</updated>
-    <id>http://weshui.github.io/blog/2014/11/18/first-grad-school-admission</id>
+    <link href="http://weshui.github.io/blog/2014/11/19/first-grad-school-admission/"/>
+    <updated>2014-11-19T08:17:08+13:00</updated>
+    <id>http://weshui.github.io/blog/2014/11/19/first-grad-school-admission</id>
     <content type="html"><![CDATA[<p>Last week, I received my first grad school admission offer!</p>
 
 <p>Master of Science in Computer Science admission from UCLA(for those who don&rsquo;t know, University of California Los Angeles!)</p>
@@ -28,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Anniversary]]></title>
-    <link href="http://weshui.github.io/blog/2014/10/02/first-anniversary/"/>
-    <updated>2014-10-02T13:43:37-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/10/02/first-anniversary</id>
+    <link href="http://weshui.github.io/blog/2014/10/03/first-anniversary/"/>
+    <updated>2014-10-03T07:43:37+13:00</updated>
+    <id>http://weshui.github.io/blog/2014/10/03/first-anniversary</id>
     <content type="html"><![CDATA[<p>这篇文章是写给妹纸看的，所以还是用中文比较好。</p>
 
 <p>亲爱的WZ姐姐</p>
@@ -63,7 +86,7 @@ All right reserved.</p>
   <entry>
     <title type="html"><![CDATA[After Roadtrip]]></title>
     <link href="http://weshui.github.io/blog/2014/09/11/after-roadtrip/"/>
-    <updated>2014-09-11T00:13:03-05:00</updated>
+    <updated>2014-09-11T17:13:03+12:00</updated>
     <id>http://weshui.github.io/blog/2014/09/11/after-roadtrip</id>
     <content type="html"><![CDATA[<p>Well, it&rsquo;s been a while without blogging anything.
 The reason for that is, of course, ROAD TRIP.</p>
@@ -94,25 +117,14 @@ The reason for that is, of course, ROAD TRIP.</p>
   
   <entry>
     <title type="html"><![CDATA[July/15]]></title>
-    <link href="http://weshui.github.io/blog/2014/07/15/july-slash-15/"/>
-    <updated>2014-07-15T13:58:59-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/07/15/july-slash-15</id>
+    <link href="http://weshui.github.io/blog/2014/07/16/july-slash-15/"/>
+    <updated>2014-07-16T06:58:59+12:00</updated>
+    <id>http://weshui.github.io/blog/2014/07/16/july-slash-15</id>
     <content type="html"><![CDATA[<p>Finally visited Hogwarts and Diagon Alley and brought wand for myself.</p>
 
 <p>As a loyal Harry Potter Serise fan, I gotta say Orlando trip was amazing. Well done Universal Studio.</p>
 
 <p>Now, got back to deal with Hadoop stuff.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Upcoming Orlando Trip &amp; Misc]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/24/upcoming-orlando-trip-and-misc/"/>
-    <updated>2014-06-24T14:54:59-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/24/upcoming-orlando-trip-and-misc</id>
-    <content type="html"><![CDATA[<p>Booked our trip to Orlando the coming July 4th. Can&rsquo;t wait to see the &ldquo;refurbished&rdquo; Harry Potter Theme Park. I grew up reading Harry Potter series (countless nights in bed and thus shortsightedness). Finally get a chance to get myself a wand and drink butterbeer.</p>
-
-<p>But, as always, you can&rsquo;t be happy and lucky all the time. Just turned down by Zillow for a Softwere Engineer Position. Well, I really like Seattle area and have a bunch of friends in there now. Too bad can&rsquo;t go there for on-site nor further career. A bit-manipulation interview question got me. I haven&rsquo;t use &amp; | ^ for years. Quite suprised that a well-known company actually will ask you this except the classic Two-Int-Exchange-Value question. Anyway, need to practice more on code.</p>
 ]]></content>
   </entry>
   
