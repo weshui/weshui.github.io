@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Web | Wes's Matrix]]></title>
   <link href="http://weshui.github.io/blog/categories/web/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2015-03-05T20:54:27+13:00</updated>
+  <updated>2015-05-07T15:55:59+08:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[How to Setup Your Own Domain Name on Github]]></title>
     <link href="http://weshui.github.io/blog/2014/06/12/how-to-setup-your-own-dns-on-github/"/>
-    <updated>2014-06-12T08:24:23+12:00</updated>
+    <updated>2014-06-12T04:24:23+08:00</updated>
     <id>http://weshui.github.io/blog/2014/06/12/how-to-setup-your-own-dns-on-github</id>
     <content type="html"><![CDATA[<p>Github provides such a great hosting service free of charge, too bad that the domain name is default to be</p>
 

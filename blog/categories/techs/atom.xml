@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Techs | Wes's Matrix]]></title>
   <link href="http://weshui.github.io/blog/categories/techs/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2015-03-05T20:54:27+13:00</updated>
+  <updated>2015-05-07T15:55:59+08:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -14,9 +14,26 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Some Good Stuff]]></title>
+    <link href="http://weshui.github.io/blog/2015/05/07/some-good-stuff/"/>
+    <updated>2015-05-07T15:51:38+08:00</updated>
+    <id>http://weshui.github.io/blog/2015/05/07/some-good-stuff</id>
+    <content type="html"><![CDATA[<p>Rencently, I&rsquo;m studying Java in depth (after the realization that I was playing rather than using it).</p>
+
+<p>Some good websites in case someone in the near future ask you similar questions:</p>
+
+<p>Why you should rewrite hashcode?
+<a href="http://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/">http://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/</a></p>
+
+<p>Probability of Hash collision (I like the math here, bring back old times lol)
+<a href="http://preshing.com/20110504/hash-collision-probabilities/">http://preshing.com/20110504/hash-collision-probabilities/</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hover Board for Real]]></title>
     <link href="http://weshui.github.io/blog/2014/11/19/hover-board-for-real/"/>
-    <updated>2014-11-19T08:21:01+13:00</updated>
+    <updated>2014-11-19T03:21:01+08:00</updated>
     <id>http://weshui.github.io/blog/2014/11/19/hover-board-for-real</id>
     <content type="html"><![CDATA[<p>Couple of monthes ago, I saw video(starring Tony Hawk) entitled &ldquo;Hover board&rdquo;.</p>
 
@@ -33,7 +50,7 @@
   <entry>
     <title type="html"><![CDATA[This Is Cool]]></title>
     <link href="http://weshui.github.io/blog/2014/09/19/this-is-cool/"/>
-    <updated>2014-09-19T05:10:35+12:00</updated>
+    <updated>2014-09-19T01:10:35+08:00</updated>
     <id>http://weshui.github.io/blog/2014/09/19/this-is-cool</id>
     <content type="html"><![CDATA[<p>You think Google Glass is cool? (it is without doubt)</p>
 
@@ -54,7 +71,7 @@
   <entry>
     <title type="html"><![CDATA[Goodjob Facebook]]></title>
     <link href="http://weshui.github.io/blog/2014/08/15/goodjob-facebook/"/>
-    <updated>2014-08-15T08:18:12+12:00</updated>
+    <updated>2014-08-15T04:18:12+08:00</updated>
     <id>http://weshui.github.io/blog/2014/08/15/goodjob-facebook</id>
     <content type="html"><![CDATA[<p>Wow, the ice buckget challenge is on heat !</p>
 
@@ -72,7 +89,7 @@ Nice place to work &amp; nice people to meet</p>
   <entry>
     <title type="html"><![CDATA[Cool Hyperlapse by MSFT Research]]></title>
     <link href="http://weshui.github.io/blog/2014/08/13/cool-hyperlapse-by-msft-research/"/>
-    <updated>2014-08-13T05:55:09+12:00</updated>
+    <updated>2014-08-13T01:55:09+08:00</updated>
     <id>http://weshui.github.io/blog/2014/08/13/cool-hyperlapse-by-msft-research</id>
     <content type="html"><![CDATA[<p>Its been a while not posting anything. Well, now I&rsquo;m back =D</p>
 
@@ -83,27 +100,6 @@ Nice place to work &amp; nice people to meet</p>
 <p>Good job MSFT Research</p>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/SOpwHaQnRSY" allowfullscreen></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Amazon Fire Phone]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/19/amazon-fire-phone/"/>
-    <updated>2014-06-19T12:43:54+12:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/19/amazon-fire-phone</id>
-    <content type="html"><![CDATA[<p>Spent hours watching Amazon event live today with CNET.</p>
-
-<p>Gotta say Fire Phone&rsquo;s dynamic perceptive is pretty &ldquo;Amazing&rdquo; at first glance. Imaging you can show off that to your friends =D</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/iB75HJe8eiI" allowfullscreen></iframe></div></p>
-
-<p>Very cool at first glance, right?</p>
-
-<p>Except that, I don&rsquo;t quite see many &ldquo;Amazing&rdquo; things. Firefly? the app that can recognize everything? Well, apparently I don&rsquo;t want to buy everything from Amazon =D Joking around, the app is clearly to promote to Shop on Amazon, which I don&rsquo;t quite agree that most people will buy. Maybe its a whole new experience for Amazon-mania, but Amazon is not Apple.</p>
-
-<p>Jump to it&rsquo;s price, 300 bucks for a contract phone just to showoff 3D Lock Screen? Let me think&hellip; Nope</p>
-
-<p>Nice try Mr. Benzos. But I will switch to iPhone 6 most likely.</p>
 ]]></content>
   </entry>
   

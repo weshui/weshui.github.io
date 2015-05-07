@@ -2,82 +2,86 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://weshui.github.io/blog/2014/06/03/firstpost/</loc>
-        <lastmod>2014-06-03T16:10:12+12:00</lastmod>
+        <lastmod>2014-06-03T12:10:12+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/06/03/project-ivy-init/</loc>
-        <lastmod>2014-06-04T08:56:53+12:00</lastmod>
+        <lastmod>2014-06-04T04:56:53+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/06/05/on-wwdc14/</loc>
-        <lastmod>2014-06-19T13:09:07+12:00</lastmod>
+        <lastmod>2014-06-19T09:09:07+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/06/10/project-ivy-part1/</loc>
-        <lastmod>2014-06-10T05:23:03+12:00</lastmod>
+        <lastmod>2014-06-10T01:23:03+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/06/12/how-to-setup-your-own-dns-on-github/</loc>
-        <lastmod>2014-06-12T09:26:02+12:00</lastmod>
+        <lastmod>2014-06-12T05:26:02+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/06/16/air-type/</loc>
-        <lastmod>2014-06-19T13:09:28+12:00</lastmod>
+        <lastmod>2014-06-19T09:09:28+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/06/19/amazon-fire-phone/</loc>
-        <lastmod>2014-06-19T13:16:09+12:00</lastmod>
+        <lastmod>2014-06-19T09:16:09+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/06/25/upcoming-orlando-trip-and-misc/</loc>
-        <lastmod>2014-06-25T08:05:19+12:00</lastmod>
+        <lastmod>2014-06-25T04:05:19+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/07/16/july-slash-15/</loc>
-        <lastmod>2014-07-16T07:02:19+12:00</lastmod>
+        <lastmod>2014-07-16T03:02:19+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/08/13/cool-hyperlapse-by-msft-research/</loc>
-        <lastmod>2014-09-11T17:27:11+12:00</lastmod>
+        <lastmod>2014-09-11T13:27:11+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/08/15/goodjob-facebook/</loc>
-        <lastmod>2014-08-15T08:23:49+12:00</lastmod>
+        <lastmod>2014-08-15T04:23:49+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/09/11/after-roadtrip/</loc>
-        <lastmod>2014-09-11T17:28:18+12:00</lastmod>
+        <lastmod>2014-09-11T13:28:18+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/09/19/this-is-cool/</loc>
-        <lastmod>2014-09-19T05:16:46+12:00</lastmod>
+        <lastmod>2014-09-19T01:16:46+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/10/03/first-anniversary/</loc>
-        <lastmod>2014-10-03T08:07:32+13:00</lastmod>
+        <lastmod>2014-10-03T03:07:32+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/11/19/first-grad-school-admission/</loc>
-        <lastmod>2014-11-19T08:19:32+13:00</lastmod>
+        <lastmod>2014-11-19T03:19:32+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2014/11/19/hover-board-for-real/</loc>
-        <lastmod>2014-11-19T08:28:12+13:00</lastmod>
+        <lastmod>2014-11-19T03:28:12+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/2015/03/05/back-to-china/</loc>
-        <lastmod>2015-03-05T20:54:09+13:00</lastmod>
+        <lastmod>2015-03-05T15:54:09+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://weshui.github.io/blog/2015/05/07/some-good-stuff/</loc>
+        <lastmod>2015-05-07T15:55:38+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/blog/archives/</loc>
-        <lastmod>2015-03-05T20:54:09+13:00</lastmod>
+        <lastmod>2015-05-07T15:55:38+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/</loc>
-        <lastmod>2015-03-05T20:54:09+13:00</lastmod>
+        <lastmod>2015-05-07T15:55:38+08:00</lastmod>
     </url>
     <url>
         <loc>http://weshui.github.io/robots.txt</loc>
-        <lastmod>2014-05-30T04:51:07+12:00</lastmod>
+        <lastmod>2014-05-30T00:51:07+08:00</lastmod>
     </url>
 </urlset>
