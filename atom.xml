@@ -4,7 +4,7 @@
   <title><![CDATA[Wes's Matrix]]></title>
   <link href="http://weshui.github.io/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2015-05-07T16:08:28+08:00</updated>
+  <updated>2015-05-07T17:01:12+08:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -26,7 +26,8 @@
 <li><h3>Java-related:</h3>
 
 <ul>
-<li><a href="http://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/">Why you should rewrite hashcode</a></li>
+<li><p><a href="http://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/">Why you should rewrite hashcode</a></p></li>
+<li><p><a href="http://www.quora.com/How-does-garbage-collection-work-in-the-JVM">How does GC work in JVM</a></p></li>
 </ul>
 </li>
 <li><h3>Math-related:</h3>
