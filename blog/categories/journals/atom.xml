@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Journals | Wes's Matrix]]></title>
   <link href="http://weshui.github.io/blog/categories/journals/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2015-05-07T17:01:12+08:00</updated>
+  <updated>2015-06-03T20:32:30+08:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Domain Name Expires]]></title>
+    <link href="http://weshui.github.io/blog/2015/06/03/domain-name-expires/"/>
+    <updated>2015-06-03T20:29:30+08:00</updated>
+    <id>http://weshui.github.io/blog/2015/06/03/domain-name-expires</id>
+    <content type="html"><![CDATA[<p>Just realize my old domain name</p>
+
+<h3>wes-ivy.me</h3>
+
+<p>just expired.</p>
+
+<p>Glad I have this back-up.</p>
+
+<p>BTW, domain name 120usd/yr, what you think?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Back to China!]]></title>
@@ -112,19 +129,6 @@ The reason for that is, of course, ROAD TRIP.</p>
 <p>Hmm, I will not get Apple Watch. 350$ for a not that impressive watch. Not worth it. But iPhone 6 is actually something. The power of NFC is &ldquo;Massive&rdquo; by one of my colleages. If Apple will release a NFC SDK, it will be Apple&rsquo;s Victory.</p>
 
 <p>Lastly, I just want to see what&rsquo;s the reaction of my girlfriend once she sees this website.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July/15]]></title>
-    <link href="http://weshui.github.io/blog/2014/07/16/july-slash-15/"/>
-    <updated>2014-07-16T02:58:59+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/07/16/july-slash-15</id>
-    <content type="html"><![CDATA[<p>Finally visited Hogwarts and Diagon Alley and brought wand for myself.</p>
-
-<p>As a loyal Harry Potter Serise fan, I gotta say Orlando trip was amazing. Well done Universal Studio.</p>
-
-<p>Now, got back to deal with Hadoop stuff.</p>
 ]]></content>
   </entry>
   

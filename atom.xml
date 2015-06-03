@@ -4,7 +4,7 @@
   <title><![CDATA[Wes's Matrix]]></title>
   <link href="http://weshui.github.io/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2015-05-07T17:01:12+08:00</updated>
+  <updated>2015-06-03T20:32:30+08:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Domain Name Expires]]></title>
+    <link href="http://weshui.github.io/blog/2015/06/03/domain-name-expires/"/>
+    <updated>2015-06-03T20:29:30+08:00</updated>
+    <id>http://weshui.github.io/blog/2015/06/03/domain-name-expires</id>
+    <content type="html"><![CDATA[<p>Just realize my old domain name</p>
+
+<h3>wes-ivy.me</h3>
+
+<p>just expired.</p>
+
+<p>Glad I have this back-up.</p>
+
+<p>BTW, domain name 120usd/yr, what you think?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Some Good Stuff]]></title>
