@@ -4,7 +4,7 @@
   <title><![CDATA[Wes's Matrix]]></title>
   <link href="http://weshui.github.io/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2015-08-18T07:09:27-05:00</updated>
+  <updated>2015-08-18T07:11:24-05:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -36,6 +36,11 @@
     <updated>2015-05-07T02:51:38-05:00</updated>
     <id>http://weshui.github.io/blog/2015/05/07/some-good-stuff</id>
     <content type="html"><![CDATA[<p>Rencently, I&rsquo;m studying Java in depth (after the realization that I was playing rather than using it).</p>
+
+<p>Recommended Books:</p>
+
+<pre><code>Effective Java 2nd Edition
+</code></pre>
 
 <p>Some good websites in case someone in the near future ask you similar questions:</p>
 
