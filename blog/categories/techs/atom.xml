@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Techs | Wes's Matrix]]></title>
   <link href="http://weshui.github.io/blog/categories/techs/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2015-06-03T20:32:30+08:00</updated>
+  <updated>2015-08-18T07:09:27-05:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Some Good Stuff]]></title>
     <link href="http://weshui.github.io/blog/2015/05/07/some-good-stuff/"/>
-    <updated>2015-05-07T15:51:38+08:00</updated>
+    <updated>2015-05-07T02:51:38-05:00</updated>
     <id>http://weshui.github.io/blog/2015/05/07/some-good-stuff</id>
     <content type="html"><![CDATA[<p>Rencently, I&rsquo;m studying Java in depth (after the realization that I was playing rather than using it).</p>
 
@@ -28,6 +28,7 @@
 <ul>
 <li><p><a href="http://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/">Why you should rewrite hashcode</a></p></li>
 <li><p><a href="http://www.quora.com/How-does-garbage-collection-work-in-the-JVM">How does GC work in JVM</a></p></li>
+<li><p><a href="http://www.slideshare.net/indicthreads/optimize-performance-of-iointensive-java-applications-using-zero-copy">What is Zero Copy and how to achieve it</a></p></li>
 </ul>
 </li>
 <li><h3>Math-related:</h3>
@@ -43,9 +44,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hover Board for Real]]></title>
-    <link href="http://weshui.github.io/blog/2014/11/19/hover-board-for-real/"/>
-    <updated>2014-11-19T03:21:01+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/11/19/hover-board-for-real</id>
+    <link href="http://weshui.github.io/blog/2014/11/18/hover-board-for-real/"/>
+    <updated>2014-11-18T13:21:01-06:00</updated>
+    <id>http://weshui.github.io/blog/2014/11/18/hover-board-for-real</id>
     <content type="html"><![CDATA[<p>Couple of monthes ago, I saw video(starring Tony Hawk) entitled &ldquo;Hover board&rdquo;.</p>
 
 <p>But, it was a hoax.</p>
@@ -60,9 +61,9 @@
   
   <entry>
     <title type="html"><![CDATA[This Is Cool]]></title>
-    <link href="http://weshui.github.io/blog/2014/09/19/this-is-cool/"/>
-    <updated>2014-09-19T01:10:35+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/09/19/this-is-cool</id>
+    <link href="http://weshui.github.io/blog/2014/09/18/this-is-cool/"/>
+    <updated>2014-09-18T12:10:35-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/09/18/this-is-cool</id>
     <content type="html"><![CDATA[<p>You think Google Glass is cool? (it is without doubt)</p>
 
 <p>Check out this video</p>
@@ -81,9 +82,9 @@
   
   <entry>
     <title type="html"><![CDATA[Goodjob Facebook]]></title>
-    <link href="http://weshui.github.io/blog/2014/08/15/goodjob-facebook/"/>
-    <updated>2014-08-15T04:18:12+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/08/15/goodjob-facebook</id>
+    <link href="http://weshui.github.io/blog/2014/08/14/goodjob-facebook/"/>
+    <updated>2014-08-14T15:18:12-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/08/14/goodjob-facebook</id>
     <content type="html"><![CDATA[<p>Wow, the ice buckget challenge is on heat !</p>
 
 <p>People @ Facebook are crazy.
@@ -99,9 +100,9 @@ Nice place to work &amp; nice people to meet</p>
   
   <entry>
     <title type="html"><![CDATA[Cool Hyperlapse by MSFT Research]]></title>
-    <link href="http://weshui.github.io/blog/2014/08/13/cool-hyperlapse-by-msft-research/"/>
-    <updated>2014-08-13T01:55:09+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/08/13/cool-hyperlapse-by-msft-research</id>
+    <link href="http://weshui.github.io/blog/2014/08/12/cool-hyperlapse-by-msft-research/"/>
+    <updated>2014-08-12T12:55:09-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/08/12/cool-hyperlapse-by-msft-research</id>
     <content type="html"><![CDATA[<p>Its been a while not posting anything. Well, now I&rsquo;m back =D</p>
 
 <p>This is pretty cool stuff.</p>

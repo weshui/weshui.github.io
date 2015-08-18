@@ -4,7 +4,7 @@
   <title><![CDATA[Wes's Matrix]]></title>
   <link href="http://weshui.github.io/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2015-06-03T20:32:30+08:00</updated>
+  <updated>2015-08-18T07:09:27-05:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Domain Name Expires]]></title>
     <link href="http://weshui.github.io/blog/2015/06/03/domain-name-expires/"/>
-    <updated>2015-06-03T20:29:30+08:00</updated>
+    <updated>2015-06-03T07:29:30-05:00</updated>
     <id>http://weshui.github.io/blog/2015/06/03/domain-name-expires</id>
     <content type="html"><![CDATA[<p>Just realize my old domain name</p>
 
@@ -33,7 +33,7 @@
   <entry>
     <title type="html"><![CDATA[Some Good Stuff]]></title>
     <link href="http://weshui.github.io/blog/2015/05/07/some-good-stuff/"/>
-    <updated>2015-05-07T15:51:38+08:00</updated>
+    <updated>2015-05-07T02:51:38-05:00</updated>
     <id>http://weshui.github.io/blog/2015/05/07/some-good-stuff</id>
     <content type="html"><![CDATA[<p>Rencently, I&rsquo;m studying Java in depth (after the realization that I was playing rather than using it).</p>
 
@@ -45,6 +45,7 @@
 <ul>
 <li><p><a href="http://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/">Why you should rewrite hashcode</a></p></li>
 <li><p><a href="http://www.quora.com/How-does-garbage-collection-work-in-the-JVM">How does GC work in JVM</a></p></li>
+<li><p><a href="http://www.slideshare.net/indicthreads/optimize-performance-of-iointensive-java-applications-using-zero-copy">What is Zero Copy and how to achieve it</a></p></li>
 </ul>
 </li>
 <li><h3>Math-related:</h3>
@@ -61,7 +62,7 @@
   <entry>
     <title type="html"><![CDATA[Back to China!]]></title>
     <link href="http://weshui.github.io/blog/2015/03/05/back-to-china/"/>
-    <updated>2015-03-05T15:46:42+08:00</updated>
+    <updated>2015-03-05T01:46:42-06:00</updated>
     <id>http://weshui.github.io/blog/2015/03/05/back-to-china</id>
     <content type="html"><![CDATA[<p>It&rsquo;s been a while before I realize my last post was last year Nov 18.</p>
 
@@ -83,9 +84,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hover Board for Real]]></title>
-    <link href="http://weshui.github.io/blog/2014/11/19/hover-board-for-real/"/>
-    <updated>2014-11-19T03:21:01+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/11/19/hover-board-for-real</id>
+    <link href="http://weshui.github.io/blog/2014/11/18/hover-board-for-real/"/>
+    <updated>2014-11-18T13:21:01-06:00</updated>
+    <id>http://weshui.github.io/blog/2014/11/18/hover-board-for-real</id>
     <content type="html"><![CDATA[<p>Couple of monthes ago, I saw video(starring Tony Hawk) entitled &ldquo;Hover board&rdquo;.</p>
 
 <p>But, it was a hoax.</p>
@@ -101,9 +102,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Grad School Admission]]></title>
-    <link href="http://weshui.github.io/blog/2014/11/19/first-grad-school-admission/"/>
-    <updated>2014-11-19T03:17:08+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/11/19/first-grad-school-admission</id>
+    <link href="http://weshui.github.io/blog/2014/11/18/first-grad-school-admission/"/>
+    <updated>2014-11-18T13:17:08-06:00</updated>
+    <id>http://weshui.github.io/blog/2014/11/18/first-grad-school-admission</id>
     <content type="html"><![CDATA[<p>Last week, I received my first grad school admission offer!</p>
 
 <p>Master of Science in Computer Science admission from UCLA(for those who don&rsquo;t know, University of California Los Angeles!)</p>
@@ -114,9 +115,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Anniversary]]></title>
-    <link href="http://weshui.github.io/blog/2014/10/03/first-anniversary/"/>
-    <updated>2014-10-03T02:43:37+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/10/03/first-anniversary</id>
+    <link href="http://weshui.github.io/blog/2014/10/02/first-anniversary/"/>
+    <updated>2014-10-02T13:43:37-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/10/02/first-anniversary</id>
     <content type="html"><![CDATA[<p>这篇文章是写给妹纸看的，所以还是用中文比较好。</p>
 
 <p>亲爱的WZ姐姐</p>
@@ -148,9 +149,9 @@ All right reserved.</p>
   
   <entry>
     <title type="html"><![CDATA[This Is Cool]]></title>
-    <link href="http://weshui.github.io/blog/2014/09/19/this-is-cool/"/>
-    <updated>2014-09-19T01:10:35+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/09/19/this-is-cool</id>
+    <link href="http://weshui.github.io/blog/2014/09/18/this-is-cool/"/>
+    <updated>2014-09-18T12:10:35-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/09/18/this-is-cool</id>
     <content type="html"><![CDATA[<p>You think Google Glass is cool? (it is without doubt)</p>
 
 <p>Check out this video</p>
@@ -171,7 +172,7 @@ All right reserved.</p>
   <entry>
     <title type="html"><![CDATA[After Roadtrip]]></title>
     <link href="http://weshui.github.io/blog/2014/09/11/after-roadtrip/"/>
-    <updated>2014-09-11T13:13:03+08:00</updated>
+    <updated>2014-09-11T00:13:03-05:00</updated>
     <id>http://weshui.github.io/blog/2014/09/11/after-roadtrip</id>
     <content type="html"><![CDATA[<p>Well, it&rsquo;s been a while without blogging anything.
 The reason for that is, of course, ROAD TRIP.</p>
@@ -203,9 +204,9 @@ The reason for that is, of course, ROAD TRIP.</p>
   
   <entry>
     <title type="html"><![CDATA[Goodjob Facebook]]></title>
-    <link href="http://weshui.github.io/blog/2014/08/15/goodjob-facebook/"/>
-    <updated>2014-08-15T04:18:12+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/08/15/goodjob-facebook</id>
+    <link href="http://weshui.github.io/blog/2014/08/14/goodjob-facebook/"/>
+    <updated>2014-08-14T15:18:12-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/08/14/goodjob-facebook</id>
     <content type="html"><![CDATA[<p>Wow, the ice buckget challenge is on heat !</p>
 
 <p>People @ Facebook are crazy.
@@ -221,9 +222,9 @@ Nice place to work &amp; nice people to meet</p>
   
   <entry>
     <title type="html"><![CDATA[Cool Hyperlapse by MSFT Research]]></title>
-    <link href="http://weshui.github.io/blog/2014/08/13/cool-hyperlapse-by-msft-research/"/>
-    <updated>2014-08-13T01:55:09+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/08/13/cool-hyperlapse-by-msft-research</id>
+    <link href="http://weshui.github.io/blog/2014/08/12/cool-hyperlapse-by-msft-research/"/>
+    <updated>2014-08-12T12:55:09-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/08/12/cool-hyperlapse-by-msft-research</id>
     <content type="html"><![CDATA[<p>Its been a while not posting anything. Well, now I&rsquo;m back =D</p>
 
 <p>This is pretty cool stuff.</p>
@@ -239,9 +240,9 @@ Nice place to work &amp; nice people to meet</p>
   
   <entry>
     <title type="html"><![CDATA[July/15]]></title>
-    <link href="http://weshui.github.io/blog/2014/07/16/july-slash-15/"/>
-    <updated>2014-07-16T02:58:59+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/07/16/july-slash-15</id>
+    <link href="http://weshui.github.io/blog/2014/07/15/july-slash-15/"/>
+    <updated>2014-07-15T13:58:59-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/07/15/july-slash-15</id>
     <content type="html"><![CDATA[<p>Finally visited Hogwarts and Diagon Alley and brought wand for myself.</p>
 
 <p>As a loyal Harry Potter Serise fan, I gotta say Orlando trip was amazing. Well done Universal Studio.</p>
@@ -252,9 +253,9 @@ Nice place to work &amp; nice people to meet</p>
   
   <entry>
     <title type="html"><![CDATA[Upcoming Orlando Trip &amp; Misc]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/25/upcoming-orlando-trip-and-misc/"/>
-    <updated>2014-06-25T03:54:59+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/25/upcoming-orlando-trip-and-misc</id>
+    <link href="http://weshui.github.io/blog/2014/06/24/upcoming-orlando-trip-and-misc/"/>
+    <updated>2014-06-24T14:54:59-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/24/upcoming-orlando-trip-and-misc</id>
     <content type="html"><![CDATA[<p>Booked our trip to Orlando the coming July 4th. Can&rsquo;t wait to see the &ldquo;refurbished&rdquo; Harry Potter Theme Park. I grew up reading Harry Potter series (countless nights in bed and thus shortsightedness). Finally get a chance to get myself a wand and drink butterbeer.</p>
 
 <p>But, as always, you can&rsquo;t be happy and lucky all the time. Just turned down by Zillow for a Softwere Engineer Position. Well, I really like Seattle area and have a bunch of friends in there now. Too bad can&rsquo;t go there for on-site nor further career. A bit-manipulation interview question got me. I haven&rsquo;t use &amp; | ^ for years. Quite suprised that a well-known company actually will ask you this except the classic Two-Int-Exchange-Value question. Anyway, need to practice more on code.</p>
@@ -263,9 +264,9 @@ Nice place to work &amp; nice people to meet</p>
   
   <entry>
     <title type="html"><![CDATA[Amazon Fire Phone]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/19/amazon-fire-phone/"/>
-    <updated>2014-06-19T08:43:54+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/19/amazon-fire-phone</id>
+    <link href="http://weshui.github.io/blog/2014/06/18/amazon-fire-phone/"/>
+    <updated>2014-06-18T19:43:54-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/18/amazon-fire-phone</id>
     <content type="html"><![CDATA[<p>Spent hours watching Amazon event live today with CNET.</p>
 
 <p>Gotta say Fire Phone&rsquo;s dynamic perceptive is pretty &ldquo;Amazing&rdquo; at first glance. Imaging you can show off that to your friends =D</p>
@@ -285,9 +286,9 @@ Nice place to work &amp; nice people to meet</p>
   
   <entry>
     <title type="html"><![CDATA[Air Type]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/16/air-type/"/>
-    <updated>2014-06-16T08:58:40+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/16/air-type</id>
+    <link href="http://weshui.github.io/blog/2014/06/15/air-type/"/>
+    <updated>2014-06-15T19:58:40-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/15/air-type</id>
     <content type="html"><![CDATA[<p>Check out this cool startup in Autsin, TX.</p>
 
 <p>Keyboard-less typing!</p>
@@ -307,9 +308,9 @@ Nice place to work &amp; nice people to meet</p>
   
   <entry>
     <title type="html"><![CDATA[How to Setup Your Own Domain Name on Github]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/12/how-to-setup-your-own-dns-on-github/"/>
-    <updated>2014-06-12T04:24:23+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/12/how-to-setup-your-own-dns-on-github</id>
+    <link href="http://weshui.github.io/blog/2014/06/11/how-to-setup-your-own-dns-on-github/"/>
+    <updated>2014-06-11T15:24:23-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/11/how-to-setup-your-own-dns-on-github</id>
     <content type="html"><![CDATA[<p>Github provides such a great hosting service free of charge, too bad that the domain name is default to be</p>
 
 <pre><code>http://github_id.github.io
@@ -365,9 +366,9 @@ www     yourdomain.com    URL Redirect  n/a    1800
   
   <entry>
     <title type="html"><![CDATA[Project Ivy Part1]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/10/project-ivy-part1/"/>
-    <updated>2014-06-10T00:58:47+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/10/project-ivy-part1</id>
+    <link href="http://weshui.github.io/blog/2014/06/09/project-ivy-part1/"/>
+    <updated>2014-06-09T11:58:47-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/09/project-ivy-part1</id>
     <content type="html"><![CDATA[<p>Fortunately,  Ivy still seems unaware of what I&rsquo;ve been doing recently. Everytime she asked &ldquo;What are you doing for the night?&rdquo;, I answered &ldquo;Coding&rdquo;. I know she probably will never find this website until I tell her. Can&rsquo;t wait to see what she will response to this =P</p>
 
 <p>I have several possible outlines for this project. But it seems an awesome website with customized video recap for the past year would be the most-likely one to literally make her burst into tears (Evil me). For the credit, I got this idea from <a href="https://www.facebook.com/lookback">Facebook Lookback</a>. I like your work Facebook, so please don&rsquo;t sue me.</p>
@@ -390,9 +391,9 @@ TBA
   
   <entry>
     <title type="html"><![CDATA[On WWDC14]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/05/on-wwdc14/"/>
-    <updated>2014-06-05T06:50:06+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/05/on-wwdc14</id>
+    <link href="http://weshui.github.io/blog/2014/06/04/on-wwdc14/"/>
+    <updated>2014-06-04T17:50:06-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/04/on-wwdc14</id>
     <content type="html"><![CDATA[<p>Finished the recap for WWDC 2014 yesterday. Didn&rsquo;t get a chance to write some of my thoughts on it until today.</p>
 
 <p>Every summer, Google-Apple-Microsoft, the big 3 will host a serise of conferences to &ldquo;show off&rdquo; their latest work. Microsoft don&rsquo;t really draw a lot attention and I personally don&rsquo;t like its product (despite the fact that I do have a Nokia phone, but it does not run very smoothly and I don&rsquo;t appreciate that). So, it&rsquo;s quite interesting to watch Apple WWDC vs. Google I/O each year.</p>
@@ -420,9 +421,9 @@ Swift (not Taylor)
   
   <entry>
     <title type="html"><![CDATA[Project Ivy Init]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/03/project-ivy-init/"/>
-    <updated>2014-06-03T11:54:05+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/03/project-ivy-init</id>
+    <link href="http://weshui.github.io/blog/2014/06/02/project-ivy-init/"/>
+    <updated>2014-06-02T22:54:05-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/02/project-ivy-init</id>
     <content type="html"><![CDATA[<p>I met with my girlfriend Ivy when we were both students in University of Illinois at Urbana Champaign. She was a master candidate majoring in Econ, and I was a 屌丝(Diaosi, Chinese Charactors, roughly translate into &ldquo;a nerdy guy who everyone knows will not get a girl friend&rdquo;) in Math &amp; Computer Science.</p>
 
 <p>Oct 2 of 2014 is our 1st year anniversary, and right now we are on skype while I&rsquo;m typing this blog.</p>
@@ -443,9 +444,9 @@ Swift (not Taylor)
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://weshui.github.io/blog/2014/06/03/firstpost/"/>
-    <updated>2014-06-03T11:27:09+08:00</updated>
-    <id>http://weshui.github.io/blog/2014/06/03/firstpost</id>
+    <link href="http://weshui.github.io/blog/2014/06/02/firstpost/"/>
+    <updated>2014-06-02T22:27:09-05:00</updated>
+    <id>http://weshui.github.io/blog/2014/06/02/firstpost</id>
     <content type="html"><![CDATA[<p>Yes, this is actually my first post.</p>
 
 <p>I was never meant to be a guy who keeps track of eveything in his daily life. I thought the first impression others could/should have are &ldquo;wtf&rdquo; or &ldquo;who cares&rdquo;. Sadly, it didn&rsquo;t change until recently thanks to one of my friends.</p>
