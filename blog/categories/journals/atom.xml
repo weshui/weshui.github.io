@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Journals | Wes's Matrix]]></title>
   <link href="http://weshui.github.io/blog/categories/journals/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2015-08-18T07:52:57-05:00</updated>
+  <updated>2016-06-16T22:29:54-07:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
@@ -14,9 +14,44 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Updates so far]]></title>
+    <link href="http://weshui.github.io/blog/2016/06/16/updates-so-far/"/>
+    <updated>2016-06-16T22:20:21-07:00</updated>
+    <id>http://weshui.github.io/blog/2016/06/16/updates-so-far</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been a year since my last update. Time does fly.</p>
+
+<p>Just want to say I am still alive. Busy, but constantly learning new stuff.</p>
+
+<p>Couple of things to &ldquo;brag&rdquo; about:</p>
+
+<ul>
+<li><p>Currently doing an Internship with Medallia in Palo Alto Bay Area, small (relatively speaking) company but people are really NICE!</p></li>
+<li><p>Spent my last semester build a open source project database. Its initial version is about to be released (soon). Watch my Github account if you are interested in learning more.</p></li>
+<li><p>Lost almost 20lbs so far</p></li>
+</ul>
+
+
+<p>Insipred by an <a href="http://aljun.me/">blogger</a>, I will start a series of tutorials  on topic like <strong>Machine Learning</strong> and <strong>Data Science</strong>. It should be a new learning experience on both ends.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Summer 2015 Internship/Part-time with Tencent]]></title>
+    <link href="http://weshui.github.io/blog/2015/08/18/summer-2015-internship-slash-part-time-with-tencent/"/>
+    <updated>2015-08-18T08:18:03-07:00</updated>
+    <id>http://weshui.github.io/blog/2015/08/18/summer-2015-internship-slash-part-time-with-tencent</id>
+    <content type="html"><![CDATA[<p>During the summer of 2015, I had this chance working with Tencent Hangzhou team. This journal will mainly be about this experience.</p>
+
+<p>Tencent Hangzhou is a, relatively-speaking, small team. We had about less than 50 people working full-time. Yet, majority (all except 3 people) of them are developers. The main business done there are still CONFIDENTIAL (I signed the contract that I should not talk about it in public domain), yet I was surprised to find out that I could talk about my project (I guess that means my project is not important maybe?)</p>
+
+<p>I did a <strong> Hadoop Version of Kmeans with Benchmark and Optimization </strong>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Domain name expires]]></title>
     <link href="http://weshui.github.io/blog/2015/06/03/domain-name-expires/"/>
-    <updated>2015-06-03T07:29:30-05:00</updated>
+    <updated>2015-06-03T05:29:30-07:00</updated>
     <id>http://weshui.github.io/blog/2015/06/03/domain-name-expires</id>
     <content type="html"><![CDATA[<p>Just realize my old domain name</p>
 
@@ -32,9 +67,9 @@
   
   <entry>
     <title type="html"><![CDATA[Back to China!]]></title>
-    <link href="http://weshui.github.io/blog/2015/03/05/back-to-china/"/>
-    <updated>2015-03-05T01:46:42-06:00</updated>
-    <id>http://weshui.github.io/blog/2015/03/05/back-to-china</id>
+    <link href="http://weshui.github.io/blog/2015/03/04/back-to-china/"/>
+    <updated>2015-03-04T23:46:42-08:00</updated>
+    <id>http://weshui.github.io/blog/2015/03/04/back-to-china</id>
     <content type="html"><![CDATA[<p>It&rsquo;s been a while before I realize my last post was last year Nov 18.</p>
 
 <p>I agree with you, I&rsquo;m lazy~</p>
@@ -56,79 +91,13 @@
   <entry>
     <title type="html"><![CDATA[First grad school admission]]></title>
     <link href="http://weshui.github.io/blog/2014/11/18/first-grad-school-admission/"/>
-    <updated>2014-11-18T13:17:08-06:00</updated>
+    <updated>2014-11-18T11:17:08-08:00</updated>
     <id>http://weshui.github.io/blog/2014/11/18/first-grad-school-admission</id>
     <content type="html"><![CDATA[<p>Last week, I received my first grad school admission offer!</p>
 
 <p>Master of Science in Computer Science admission from UCLA(for those who don&rsquo;t know, University of California Los Angeles!)</p>
 
 <p>California, I&rsquo;m coming!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Anniversary]]></title>
-    <link href="http://weshui.github.io/blog/2014/10/02/first-anniversary/"/>
-    <updated>2014-10-02T13:43:37-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/10/02/first-anniversary</id>
-    <content type="html"><![CDATA[<p>这篇文章是写给妹纸看的，所以还是用中文比较好。</p>
-
-<p>亲爱的WZ姐姐</p>
-
-<p><img class="right <a" src="href="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10452355_555059154603770_5262808059192557325_n.jpg?oh=4e983214c699c84d7882ca7c4e299472&amp;oe=54C07048&amp;__gda__=1422391536_6caf5429b0c48a39ef82e5c3a0626294">https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10452355_555059154603770_5262808059192557325_n.jpg?oh=4e983214c699c84d7882ca7c4e299472&amp;oe=54C07048&amp;__gda__=1422391536_6caf5429b0c48a39ef82e5c3a0626294</a>" width="280" height="180">
-下午工作的时候想起来，今天已经是10/2了。<br>
-去年的这个时候，还是学生的我们在一起了。<br>
-于是现在已经一年了。<br>
-1年里，谢谢你的包容，理解，体贴（if any）。<br>
-未来谁也不好说，但是不管在哪，2013年到2014年的这1年我肯定是不会忘记的。<br>
-いろいろとありがとうございます!<br>
-本来呢，打算这个网站的主页换成一个WebGL的动画的。<br>
-但是吧，各种事情和GRE搞的我学习WebGL的过程异常的缓慢。<br>
-不过呢，这个网站的网址就当我给你的礼物了。<br>
-我自己注册的，是不是很厉害。<br>
-顺带一提，ivy-wes这个也是我注册的，会重新导到这里来。<br>
-明年的这个时候，WebGL应该可以完工啦，到时候记得来看哈。<br></p>
-
-<p>最后，</p>
-
-<p>周年纪念！<br>
-Happy Anniversary！<br>
-記念日おめでとう！<br></p>
-
-<p>By Wesley Hui.<br>
-All right reserved.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[After Roadtrip]]></title>
-    <link href="http://weshui.github.io/blog/2014/09/11/after-roadtrip/"/>
-    <updated>2014-09-11T00:13:03-05:00</updated>
-    <id>http://weshui.github.io/blog/2014/09/11/after-roadtrip</id>
-    <content type="html"><![CDATA[<p>Well, it&rsquo;s been a while without blogging anything.
-The reason for that is, of course, ROAD TRIP.</p>
-
-<p>I have to keep this blogging thing away from my girlfriend. Otherwise, it won&rsquo;t be a suprise gift. Right?</p>
-
-<p>Couple of updates.</p>
-
-<blockquote><p>California is a beautiful place.</p></blockquote>
-
-<p>I&rsquo;ve been to San Fransico and L.A before, but I didn&rsquo;t rent a car back then. This time, we rent car and visited Yosemite (yeah, next version of Mac OS X). In general, CA is an awesome place.</p>
-
-<p>For those of you haven&rsquo;t get a chance to really appreciate CA, this video is good for you.</p>
-
-<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/105286558 "></iframe></div></p>
-
-<blockquote><p>I passed the interview, but no offer? What? Seriously?</p></blockquote>
-
-<p>I actually interviewed with CapitalOne for a Data Engineer role in their plano office. The first day after interview, my point of contact told me I passed the interview and congrats. Cool. But two days after, she said they need to make an exception to give me offer because my situation is not expected (OPT/F1). Well, why did you interview me in the first place?</p>
-
-<blockquote><p>New AppleEvent</p></blockquote>
-
-<p>Hmm, I will not get Apple Watch. 350$ for a not that impressive watch. Not worth it. But iPhone 6 is actually something. The power of NFC is &ldquo;Massive&rdquo; by one of my colleages. If Apple will release a NFC SDK, it will be Apple&rsquo;s Victory.</p>
-
-<p>Lastly, I just want to see what&rsquo;s the reaction of my girlfriend once she sees this website.</p>
 ]]></content>
   </entry>
   
