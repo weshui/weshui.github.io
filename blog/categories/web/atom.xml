@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Web | Wes's Matrix]]></title>
+  <title><![CDATA[Category: Web | Blank]]></title>
   <link href="http://weshui.github.io/blog/categories/web/atom.xml" rel="self"/>
   <link href="http://weshui.github.io/"/>
-  <updated>2016-06-16T22:29:54-07:00</updated>
+  <updated>2016-08-02T00:30:27-07:00</updated>
   <id>http://weshui.github.io/</id>
   <author>
     <name><![CDATA[Wesley Hui]]></name>
